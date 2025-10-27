@@ -21,7 +21,7 @@ Why Jianying? Why this absolute garbage? A software that positions itself as "pr
 - Media file management
 - Basic professional workflow support
 
-It's 2024, and we're still dealing with software that acts like it's from 2010. Just copy your project folder with your assets to transfer work? How primitive! This is what beginners expect, not professional users. Absolute joke.
+It's 2025, and we're still dealing with software that acts like it's from 2010. Just copy your project folder with your assets to transfer work? How primitive! This is what beginners expect, not professional users. Absolute joke.
 
 But since we're forced to use this garbage, here's a workaround tool to make your life slightly less miserable.
 
@@ -91,7 +91,7 @@ Whatever license you want, just use it.
 - 媒体文件管理
 - 基本的专业工作流程支持
 
-2024年了，我们还在用像2010年一样的软件。复制项目文件夹连带着素材来转移工作？太原始了！这只有初级用户才会期待，不是专业用户的需求。绝对是开玩笑。
+2025年了，我们还在用像2010年一样的软件。复制项目文件夹连带着素材来转移工作？太原始了！这只有初级用户才会期待，不是专业用户的需求。绝对是开玩笑。
 
 但既然被迫用这个垃圾，这就是一个稍稍减轻你痛苦的变通工具。
 
